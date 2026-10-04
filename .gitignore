@@ -1,0 +1,19 @@
+# Large/raw dataset files
+*.tsv
+data/*.csv
+data/*.parquet
+data/*.zip
+data/*.gz
+
+# Working sample
+criteo_5pct_sample.parquet
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
